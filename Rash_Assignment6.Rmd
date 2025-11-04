@@ -1,0 +1,14 @@
+---
+title: "Assignment6"
+author: "Robin Rash"
+date: "2025-11-04"
+output: html_document
+---
+### Paper review
+
+Brewer, M.A., Grossman, E.L. & Randklev, C.R. Clumped isotopes reveal relationship between mussel growth and river discharge. Sci Rep 14, 7653 (2024). <https://doi.org/10.1038/s41598-024-58246-w>
+git config --global user.email robinrash05@gmail.com
+# Add the email with which you registered on GitHub and click Enter
+
+git config --global user.name "RobinRash"
+# Add your GitHub username and click Enter
