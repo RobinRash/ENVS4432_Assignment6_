@@ -7,8 +7,19 @@ output: html_document
 ### Paper review
 
 Brewer, M.A., Grossman, E.L. & Randklev, C.R. Clumped isotopes reveal relationship between mussel growth and river discharge. Sci Rep 14, 7653 (2024). <https://doi.org/10.1038/s41598-024-58246-w>
-git config --global user.email robinrash05@gmail.com
-# Add the email with which you registered on GitHub and click Enter
 
-git config --global user.name "RobinRash"
-# Add your GitHub username and click Enter
+## Introduction
+
+The aim of Brewer (2024) is to evaluate the effects of environmental factors on freshwater mussel growth. Information regarding historic and current hydrology, climate, and population dynamics for the Brazos River in Texas, using isotope thermometry, was evaluated before and after damming of the river. The comparison of historic and current environmental factors is important to assess as it provides insight to alterations of environments due to damming and how those changes effect freshwater mussel communities, which are already extremely threatened.
+
+## Methods
+
+The authors collected modern mussel shells of A. *plicata* from the middle of the Brazos River and mussel shells were previously collected from approximately the same location in both the 1900's and 2013. The mussel shells were collected away from any water treatment releases or other aspects that could possibly influence the water or air temperature. Monthly temperature air was assumed to be a representation of mean monthly water temperatures.
+
+Shells were cleaned and the right valves were sectioned and cut into sections. Carbonate powders were milled from the shells to be used for isotope analyses. Isotope analyses were used to find the relative abundance of oxygen-18 and oxygen-16 (δ~18~O~water~). Monthly growth rates were calculated by measuring the difference in shell length at monthly growth boundaries.
+
+## Results and Conclusions
+
+Modern and historic growth rates did not differ significantly. Historic shells showed a significant correlation between growth rate and reconstructed δ~18~O~water~ and temperature. There was a stronger correlation between growth and reconstructed δ~18~O~water~, indicating that historic growth is more sensitive to changes in δ~18~O~water~, than to temperature. Additional reconstructed δ~18~O~water~ data and disterbance bands suggest that precipitation and flow rates inhibit the growth rate of mussels to a higher extent than temperature (fig. 4). There was no significant information found from the modern shells. The lack of information found from the modern shells could be due to the damming of the river, which would disrupt the natural flow regime, but needs more research. The clumped isotope analyses provided insight to historical climate events and the hydrologic cycle.
+
+![**Figure 4.** Data for historic shell H3R. From top to bottom: (A) monthly growth rate (teal); (B) reconstructed δ18Owater (blue); (C) shell δ18O (light grey) and △47 temperature (black). The vertical shaded bands represent dark bands in the shell, with the dashed red line representing a disturbance band and the solid red line representing an annual band in the 4B-C. Modern measured values of δ18Owater are represented by the light blue horizontal rectangle in 4B. Seasons and years are shown at the top.](images/Historicshell.webp)
